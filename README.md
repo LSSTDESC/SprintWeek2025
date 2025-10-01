@@ -1,4 +1,4 @@
-# SprintWeek2022
+# SprintWeek2025
 Meeting repository for the LSST DESC 2025 Sprint Week
 
 Check the <a href="https://github.com/LSSTDESC/SprintWeek2025/issues">issue page</a> to see the list of sprints.
